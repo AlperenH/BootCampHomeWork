@@ -1,0 +1,14 @@
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\bin\Debug\net6.0\ConsoleApp_Odev.deps.json
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\bin\Debug\net6.0\ConsoleApp_Odev.dll
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\bin\Debug\net6.0\ConsoleApp_Odev.pdb
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.AssemblyInfoInputs.cache
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.AssemblyInfo.cs
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.dll
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\refint\ConsoleApp_Odev.dll
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.pdb
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ref\ConsoleApp_Odev.dll
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\bin\Debug\net6.0\ConsoleApp_Odev.exe
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\bin\Debug\net6.0\ConsoleApp_Odev.runtimeconfig.json
+C:\Users\Alperen\source\repos\ConsoleApp_Odev\ConsoleApp_Odev\obj\Debug\net6.0\ConsoleApp_Odev.genruntimeconfig.cache
